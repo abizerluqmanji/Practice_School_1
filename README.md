@@ -22,7 +22,7 @@ Included in repository:
 9. Datasheets of components used
 
 Software required to view files:
-PDF viewer
-Any office suit (Libre Office)
-Edraw Max (.eddx files)
+PDF viewer,
+Any office suit (Libre Office),
+Edraw Max (.eddx files),
 NI LabVIEW (.vi files)
