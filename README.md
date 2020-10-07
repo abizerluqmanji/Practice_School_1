@@ -1,5 +1,5 @@
 # Practice_School_1
-Practice School 1 project in 2020
+Practice School 1 (2020) project at Electrono Solutions
 
 Title of Project: IoT Based Programmable Resistive Load Bank
 
